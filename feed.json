@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://iklandulu.github.io",
+    "feed_url": "https://iklandulu.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Information"
+    },
+    "items": [
+        {
+            "id": "https://iklandulu.github.io/test.html",
+            "url": "https://iklandulu.github.io/test.html",
+            "title": "test",
+            "author": {
+                "name": "Information"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-25T00:20:45+07:00",
+            "date_modified": "2023-01-25T00:20:59+07:00"
+        }
+    ]
+}
